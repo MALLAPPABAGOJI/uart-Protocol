@@ -6,7 +6,7 @@ This is a UART (Universal Asynchronous Receiver/Transmitter) implementation usin
 - 8-bit data transfer
 - 1 start bit, 1 stop bit
 - **Even parity** for error checking
-- Baud rate control via counter
+- Baud rate control via counter 
 - Written and tested in SystemVerilog
 - Simulated using EDAPlayground (Icarus Verilog + EPWave)
 
