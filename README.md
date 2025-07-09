@@ -19,3 +19,7 @@ This is a UART (Universal Asynchronous Receiver/Transmitter) implementation usin
 2. Paste the code files
 3. Select **SystemVerilog**, **Icarus Verilog**
 4. Run simulation and view waveforms in EPWave
+
+UART output waveform :
+![image](https://github.com/user-attachments/assets/82796c6b-5ada-4d03-ad57-1feb555c6bce)
+
